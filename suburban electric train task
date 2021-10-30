@@ -1,0 +1,6 @@
+s = str(input())
+i, j = s.split(' ')
+if i == j:
+    print(0)
+else
+    print(int(i) + int(j) - 1)
