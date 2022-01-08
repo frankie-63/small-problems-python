@@ -9,4 +9,4 @@ def diff21(i):
         return (i - 21) * 2
 
 
-print(diff21(n))
+print(diff21(n)) # some comments
